@@ -1,120 +1,144 @@
-{
-    "personal_information": {
-        "name": "R SAI UDAY KIRAN",
-        "email": "udaykiranftw@gmail.com",
-        "phone": "+91 9398831577",
-        "date_of_birth": "19 May, 2002",
-        "linkedin": "https://www.linkedin.com/in/uday-kiran-a698a9249/",
-        "github": "https://github.com/Kiranftw"
-    },
-    "skills": {
-        "programming_languages": {
-            "advanced": [
-                "Python (OOPS, DSA)"
+[
+    {
+        "personal_information": {
+            "name": "R SAI UDAY KIRAN",
+            "email": "udaykiranftw@gmail.com",
+            "phone": "+91 9398831577",
+            "date_of_birth": "19 May, 2002",
+            "linkedin": "https://www.linkedin.com/in/uday-kiran-a698a9249/",
+            "github": "https://github.com/Kiranftw"
+        },
+        "skills": {
+            "programming_languages": {
+                "advanced": [
+                    "Python (OOPS, DSA)"
+                ],
+                "intermediate": [
+                    "C",
+                    "Java",
+                    "R",
+                    "SQL"
+                ],
+                "novice": [
+                    "Data Analytics"
+                ]
+            },
+            "math": [
+                "Linear Algebra",
+                "Statistics"
             ],
-            "intermediate": [
-                "C",
-                "Java",
-                "R",
-                "SQL"
+            "tools": [
+                "GitHub",
+                "Linux",
+                "Windows"
             ],
-            "novice": [
-                "Data Analytics"
+            "frameworks_technologies": [
+                "NumPy",
+                "Pandas",
+                "Matplotlib",
+                "Scikit-Learn",
+                "Novice - TensorFlow"
+            ],
+            "ml_ds": [
+                "Linear & Multilinear Regression",
+                "Data Cleaning & Data Preprocessing",
+                "Logistics Regression",
+                "Decision Trees",
+                "K Means & KNN"
             ]
         },
-        "tools": [
-            "GitHub",
-            "Linux",
-            "Windows"
+        "education": [
+            {
+                "degree": "B. Tech, CSE- DATA SCIENCE",
+                "institution": "Nalla Narsimha Reddy educational society",
+                "dates": "2022-25",
+                "location": "Hyderabad",
+                "cgpa": "7.6"
+            },
+            {
+                "degree": "Diploma, Industrial & Product Design",
+                "institution": "CIPET – CENTRAL INSTITUTE OF PETROCHEMICAL ENGEINEERING & TECHNOLO0GY",
+                "dates": "2020-22",
+                "location": "Hyderabad",
+                "percentage": "77.7%"
+            },
+            {
+                "degree": "Intermediate, MPC",
+                "institution": "Narayana Junior college",
+                "dates": "2018- 20",
+                "location": "Hyderabad",
+                "percentage": "70%"
+            }
         ],
-        "frameworks_technologies": [
-            "NumPy",
-            "Pandas",
-            "Matplotlib",
-            "Scikit-Learn",
-            "TensorFlow (Novice)"
+        "languages": [
+            "English",
+            "Hindi",
+            "Telugu"
         ],
-        "ml_ds": [
-            "Linear & Multilinear Regression",
-            "Data Cleaning & Data Preprocessing",
-            "Logistics Regression",
-            "Decision Trees",
-            "K Means & KNN"
+        "experience": [
+            {
+                "title": "Acme Tooling’s Intern Full Time",
+                "dates": "Jan 2022 - June 2022",
+                "location": "Hyderabad, India",
+                "description": "Gained hands-on experience in complex mould designs and development. Worked with CAD/CAM and SolidWorks design software’s to build intricate designs. Contributed to the end-to-end development of mould' s from initial design through manufacturing and quality control",
+                "skills": [
+                    "CAD/CAM",
+                    "SOLID WORKS"
+                ],
+                "role": "ASSISTANT TOOL MAKER"
+            },
+            {
+                "title": "InternPe Intern",
+                "dates": "Nov 2023 – Dec 2023",
+                "description": "Applied the OOPS & Data Structures concepts while developing games and applications. Worked on some specific modules like NumPy, Pandas for Data Manipulation on the real-world datasets from Kaggle",
+                "skills": [
+                    "PYTHON",
+                    "OOPS",
+                    "DATA STRUCTURES",
+                    "NumPy",
+                    "Pandas"
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "name": "CV ANALYTICS DASHBOARD",
+                "skills": [
+                    "Python",
+                    "Gemini API",
+                    "GenAI"
+                ],
+                "description": "Developed a CV Analytics Dashboard that helps job applicants evaluate the relevance of their resume based upon the Job Description identifies missing skills and recommend improvements. Used a Gemini LLM to create an algorithm that calculates the relevance score of a resume based on job descriptions. Extract missing keywords & skills that provides applicants with insights in to areas needing for improvement Provides relevant course recommendations based on missing skills and generate automated cover letters for applicants who’s ready for apply."
+            },
+            {
+                "name": "Conversation chatbot using API",
+                "skills": [
+                    "Python",
+                    "Gemini API",
+                    "GenAI"
+                ],
+                "description": "Developed a basic Conversation chatbot using a Gemini LLM’s API that can process both text and images providing a comprehensive insight in to data"
+            }
+        ],
+        "achievements": [
+            {
+                "name": "SMART INDIA HACKTHON - SIH",
+                "description": "I proposed a mobile app prototype at SIH to enhance tourists’ beach experiences and safety by helping them discover and engage in recreational activities."
+            }
+        ],
+        "certifications": [
+            {
+                "name": "DSA PYTHON",
+                "awarded_by": "CampusX"
+            },
+            {
+                "name": "Python & JAVA Essentials",
+                "awarded_by": "APNA College"
+            },
+            {
+                "name": "Machine Learning",
+                "awarded_by": "IBM & CampusX"
+            }
         ]
-    },
-    "education": [
-        {
-            "degree": "B. Tech, CSE- DATA SCIENCE",
-            "institution": "Nalla Narsimha Reddy educational society",
-            "years": "2022-25",
-            "location": "Hyderabad",
-            "cgpa": "7.6"
-        },
-        {
-            "degree": "Diploma, Industrial & Product Design",
-            "institution": "CIPET – CENTRAL INSTITUTE OF PETROCHEMICAL ENGEINEERING & TECHNOLO0GY",
-            "years": "2020-22",
-            "location": "Hyderabad",
-            "percentage": "77.7%"
-        },
-        {
-            "degree": "Intermediate, MPC",
-            "institution": "Narayana Junior college",
-            "years": "2018- 20",
-            "location": "Hyderabad",
-            "percentage": "70%"
-        }
-    ],
-    "languages": [
-        "English",
-        "Hindi",
-        "Telugu"
-    ],
-    "experience": [
-        {
-            "title": "Acme Tooling’s Intern Full Time",
-            "company": "Acme Tooling",
-            "years": "Jan 2022 - June 2022",
-            "location": "Hyderabad, India",
-            "description": "Gained hands-on experience in complex mould designs and development. Worked with CAD/CAM and SolidWorks design software’s to build intricate designs. Contributed to the end-to-end development of mould' s from initial design through manufacturing and quality control."
-        },
-        {
-            "title": "InternPe Intern",
-            "company": "InternPe",
-            "years": "Nov 2023 – Dec 2023",
-            "location": null,
-            "description": "Applied the OOPS & Data Structures concepts while developing games and applications. Worked on some specific modules like NumPy, Pandas for Data Manipulation on the real-world datasets from Kaggle."
-        }
-    ],
-    "projects": [
-        {
-            "name": "CV ANALYTICS DASHBOARD",
-            "technologies": [
-                "Python",
-                "Gemini API",
-                "GenAI"
-            ],
-            "description": "Developed a CV Analytics Dashboard that helps job applicants evaluate the relevance of their resume based upon the Job Description identifies missing skills and recommend improvements. Used a Gemini LLM to create an algorithm that calculates the relevance score of a resume based on job descriptions. Extract missing keywords & skills that provides applicants with insights in to areas needing for improvement. Provides relevant course recommendations based on missing skills and generate automated cover letters for applicants who’s ready for apply."
-        },
-        {
-            "name": "Conversation chatbot using API",
-            "technologies": [
-                "Python",
-                "Gemini API",
-                "GenAI"
-            ],
-            "description": "Developed a basic Conversation chatbot using a Gemini LLM’s API that can process both text and images providing a comprehensive insight in to data"
-        }
-    ],
-    "achievements": [
-        {
-            "name": "SMART INDIA HACKTHON - SIH",
-            "description": "I proposed a mobile app prototype at SIH to enhance tourists’ beach experiences and safety by helping them discover and engage in recreational activities."
-        }
-    ],
-    "certifications": [
-        "DSA PYTHON : By CampusX",
-        "Python & JAVA Essentials : By APNA College",
-        "Machine Learning : By IBM & CampusX"
-    ]
-}
+    }
+]

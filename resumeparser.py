@@ -16,6 +16,7 @@ from functools import wraps
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.output_parsers import JsonOutputParser
 from PIL import Image
+from pymongo import MongoClient
 
 @staticmethod
 def ExceptionHandeler(func):
@@ -36,7 +37,7 @@ class ResumeAnalytics(object):
         genai.configure(api_key = self.__API)
         self.outputsFOLDER = "outputs"
         for model in genai.list_models():
-            print(model.name)
+            pass
         self.model: genai.GenerativeModel = genai.GenerativeModel(
             model_name="models/gemini-2.0-flash",
             generation_config={
